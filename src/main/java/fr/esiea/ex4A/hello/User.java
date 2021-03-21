@@ -41,4 +41,5 @@ public class User {
         this.userSex = userSex;
         this.userSexPref = userSexPref;
     }
-}
+  }
+

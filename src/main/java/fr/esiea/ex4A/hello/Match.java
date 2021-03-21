@@ -1,4 +1,3 @@
-
 package fr.esiea.ex4A.hello;
 
 public class Match {
@@ -16,5 +15,5 @@ public class Match {
 
     public String getTwitter() {
         return twitter;
-    }
-}
+      }
+  }
