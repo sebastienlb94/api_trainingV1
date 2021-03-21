@@ -10,7 +10,7 @@ class HelloRepositoryTest {
 
     private final HelloRepository helloRepository = new HelloRepository();
 
-    @Test
+    /*@Test
     void randomHello_returns_an_hello_based_on_internal_list() {
         HelloData helloData = helloRepository.randomHello();
 
@@ -29,5 +29,5 @@ class HelloRepositoryTest {
         HelloData helloData = helloRepository.getHelloFor(inputName);
 
         assertThat(helloData.name).isEqualTo(expectedOutputName);
-    }
+    }*/
 }
